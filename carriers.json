@@ -1,0 +1,4218 @@
+
+
+[
+    {
+        "Identifier": 16,
+        "Name": "Fleur-de-santé",
+        "Address": "Avenue Khaled Ibn El Walid",
+        "City": "Aouina",
+        "Zipcode": 2045,
+        "Longitude": 10.26848,
+        "latitude": 36.858118,
+        "MapLocation": "https://goo.gl/maps/xqeBCC5KA6R5X4GDA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 17,
+        "Name": "Ayedi-Electronique",
+        "Address": "Rue de Sparte",
+        "City": "Tunis",
+        "Zipcode": 1000,
+        "Longitude": 10.179661976290983,
+        "latitude": 36.80323726192036,
+        "MapLocation": "https://goo.gl/maps/tSP4t5HohR7aGRHdA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 19,
+        "Name": "MusicBox",
+        "Address": "2 Rue Ammar Ibn Yesser",
+        "City": "Menzah-6",
+        "Zipcode": 2091,
+        "Longitude": 10.165398295815809,
+        "latitude": 36.848186803455036,
+        "MapLocation": "https://goo.gl/maps/bq5Y4rw6YuBdkaRX7",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:15",
+                                "close": "13:45"
+                            },
+                            {
+                                "open": "15:30",
+                                "close": "19:30"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 24,
+        "Name": "eRelais-LaveMatic",
+        "Address": "15 Avenue Ali Belhouane",
+        "City": "La Marsa",
+        "Zipcode": 2070,
+        "Longitude": 10.326798395337418,
+        "latitude": 36.877801308592865,
+        "MapLocation": "https://goo.gl/maps/dmxXydFtcVRjVpCz5",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 26,
+        "Name": "CreaPrint",
+        "Address": "Avenue Habib Bourguiba",
+        "City": "Ezzahra",
+        "Zipcode": 2065,
+        "Longitude": 10.301007082465588,
+        "latitude": 36.738742718226824,
+        "MapLocation": "https://goo.gl/maps/BrXdg5KxfuajL2b68",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:45"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:45"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:45"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:45"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:45"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "12:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 27,
+        "Name": "LaveRit",
+        "Address": "Rue Maarouf Errassafi",
+        "City": "Ksar Said",
+        "Zipcode": 2080,
+        "Longitude": 10.116693797666303,
+        "latitude": 36.82231186411307,
+        "MapLocation": "https://goo.gl/maps/mKiXGviUVfvXNHJx8",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 28,
+        "Name": "Coin-GSM",
+        "Address": "Avenue Taher Ben Ammar",
+        "City": "Manar1",
+        "Zipcode": 2092,
+        "Longitude": 10.15641,
+        "latitude": 36.839673,
+        "MapLocation": "https://goo.gl/maps/4t7GMayW23pMHhFBA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "18:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 31,
+        "Name": "The-Laundry",
+        "Address": "Résidence Yasmine Lac 2",
+        "City": "Lac 2",
+        "Zipcode": 1053,
+        "Longitude": 10.270087247849652,
+        "latitude": 36.84754975674093,
+        "MapLocation": "https://goo.gl/maps/XTGjuEmpyMbWvpiM7",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "17:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 32,
+        "Name": "LaveMatic",
+        "Address": "15 Avenue Ali Belhouane",
+        "City": "La Marsa",
+        "Zipcode": 2070,
+        "Longitude": 10.326798395337418,
+        "latitude": 36.877801308592865,
+        "MapLocation": "https://goo.gl/maps/dmxXydFtcVRjVpCz5",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 34,
+        "Name": "Washin",
+        "Address": "Résidence l’Opéra، 2 Av. Mohamed Rached El Baji, Ariana",
+        "City": "Ennasr",
+        "Zipcode": 2037,
+        "Longitude": 10.164281055833788,
+        "latitude": 36.862327871895594,
+        "MapLocation": "https://g.page/wash-in-pressing?share",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 35,
+        "Name": "Tunisie-Bio",
+        "Address": "Rue Hédi Errayes",
+        "City": "Megrine",
+        "Zipcode": 2033,
+        "Longitude": 10.2285177552519,
+        "latitude": 36.77204849080866,
+        "MapLocation": "https://goo.gl/maps/jTeV3Rwn2mFjsqSZA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:30"
+                            },
+                            {
+                                "open": "14:30",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:30"
+                            },
+                            {
+                                "open": "14:30",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:30"
+                            },
+                            {
+                                "open": "14:30",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:30"
+                            },
+                            {
+                                "open": "14:30",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:30"
+                            },
+                            {
+                                "open": "14:30",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 36,
+        "Name": "Plug-And-Play",
+        "Address": "Avenue Farhat Hached",
+        "City": "Rades",
+        "Zipcode": 2040,
+        "Longitude": 10.272445741868335,
+        "latitude": 36.767751298034504,
+        "MapLocation": "https://goo.gl/maps/p9PTUZDZ93McygVh6",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "20:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 37,
+        "Name": "Smart-Cell",
+        "Address": "Rue Lac Tchad",
+        "City": "Lac 1",
+        "Zipcode": 1053,
+        "Longitude": 10.240762519036352,
+        "latitude": 36.838622403978604,
+        "MapLocation": "https://goo.gl/maps/E5FDMKBtiYx9vQ9f9",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 38,
+        "Name": "Tek-Store",
+        "Address": "Rue Habib Bourguiba",
+        "City": "Kram",
+        "Zipcode": 2089,
+        "Longitude": 10.315218584262958,
+        "latitude": 36.83172896092009,
+        "MapLocation": "https://maps.app.goo.gl/zX7iYegPZQ7mbzvV7",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 39,
+        "Name": "Allo-Pressing",
+        "Address": "Av. Mahdia, résidence Salma",
+        "City": "Mourouj 1",
+        "Zipcode": 2074,
+        "Longitude": 10.210799761969023,
+        "latitude": 36.734594329523205,
+        "MapLocation": "https://goo.gl/maps/Zj9hQ7tnvcZVLxvCA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "07:00",
+                                "close": "19:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "08:00",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 40,
+        "Name": "MagicTouch-HammamLif",
+        "Address": "Av. Habib Bourguiba",
+        "City": "Hammam Lif",
+        "Zipcode": 2050,
+        "Longitude": 10.335268838638452,
+        "latitude": 36.73024222575826,
+        "MapLocation": "https://goo.gl/maps/qE3ScEXCovaCAa3p8",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 41,
+        "Name": "MagicTouch-Boumhal",
+        "Address": "Av. de l'environnement",
+        "City": "Boumhal",
+        "Zipcode": 2097,
+        "Longitude": 10.308916056208375,
+        "latitude": 36.73014469584329,
+        "MapLocation": "https://goo.gl/maps/fhVpaHAzWUb3kMZZ8",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "21:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 42,
+        "Name": "Para-Informatique",
+        "Address": "Av. de la Liberté",
+        "City": "Tunis",
+        "Zipcode": 1002,
+        "Longitude": 10.179602639909795,
+        "latitude": 36.81209326514771,
+        "MapLocation": "https://goo.gl/maps/WgoU8XB1CuWZWVE36",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "16:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "16:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "16:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "16:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "16:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "isClosed": "1"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 47,
+        "Name": "Maryouli",
+        "Address": "17 Rue Des Champs",
+        "City": "Bardo",
+        "Zipcode": 2000,
+        "Longitude": 10.145169118430108,
+        "latitude": 36.812019136934225,
+        "MapLocation": "https://g.page/maryouli-tshirt?share",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "18:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 48,
+        "Name": "Ben-Barka-Sim",
+        "Address": "064 cité la police",
+        "City": "Denden",
+        "Zipcode": 2011,
+        "Longitude": 10.110685912983636,
+        "latitude": 36.80156931514037,
+        "MapLocation": "https://goo.gl/maps/xJnKGWUq4F9MTy7o7",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "19:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "13:00"
+                            },
+                            {
+                                "open": "14:00",
+                                "close": "17:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 49,
+        "Name": "Jolla-Concept-Store",
+        "Address": "268 La Goulette Rd, La Goulette",
+        "City": "Kram",
+        "Zipcode": 2015,
+        "Longitude": 10.316626899314628,
+        "latitude": 36.83520905588299,
+        "MapLocation": "https://goo.gl/maps/ofg6o27rXfxWfi8JA",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "10:00",
+                                "close": "19:30"
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            },
+            {
+                "plan": "Ramadhan",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "hours": [
+                            {
+                                "open": "",
+                                "close": ""
+                            },
+                            {
+                                "open": "",
+                                "close": ""
+                            }
+                        ],
+                        "isClosed": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Identifier": 50,
+        "Name": "BenAmorStore",
+        "Address": "rue de l'Indépendance",
+        "City": "Fouchana",
+        "Zipcode": 2082,
+        "Longitude": 10.166710275667091,
+        "latitude": 36.69998597679394,
+        "MapLocation": "https://goo.gl/maps/baKPhhRJp32mqsMb8",
+        "WorkingHours": [
+            {
+                "plan": "regular",
+                "timing": [
+                    {
+                        "day": "Lundi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mardi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Mercredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Jeudi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Vendredi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Samedi",
+                        "hours": [
+                            {
+                                "open": "09:30",
+                                "close": "14:00"
+                            },
+                            {
+                                "open": "15:00",
+                                "close": "20:00"
+                            }
+                        ],
+                        "isClosed": "0"
+                    },
+                    {
+                        "day": "Dimanche",
+                        "isClosed": "1"
+                    }
+                ]
+            }
+        ]
+    }
+]

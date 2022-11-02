@@ -1,0 +1,91 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrier Solution</title>
+    <!-- external libraries -->
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+        integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+        integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+        integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+    <!-- external libraries -->
+
+</head>
+
+<body>
+
+
+    <div class="carrier-widget">
+
+        <button id="show-carrier-button" onclick="showDialog()">SELECT A RELAY POINT</button>
+
+
+
+        <dialog id="dialog">
+
+            <div class="widget-popup">
+                <button value="cancel" class="close">&times;</button>
+
+                <div class="popup-header">
+                    <p
+                        style="text-align: center;background-color: grey;color:white ; font-size: medium; margin: 8px 0px;">
+                        Select
+                        your carrier point</p>
+
+                </div>
+                <div class="popup-content">
+
+                    <div class="relay-list">
+
+                        <div class="relay-container" data-name="relais ariana">
+                            <p style="font-weight: bold;">name of relay</p>
+                            <p>address</p>
+                            <p>road</p>
+
+                        </div>
+
+
+                        <div class="relay-container" data-name="relais marsa">
+                            <p style="font-weight: bold;">name of relay</p>
+                            <p>address</p>
+                            <p>road</p>
+
+                        </div>
+
+                        <div class="relay-container" data-name="relais Beja">
+                            <p style="font-weight: bold;">name of relay</p>
+                            <p>address</p>
+                            <p>road</p>
+
+                        </div>
+
+
+
+                    </div>
+                    <div class="map" id="map">
+
+                    </div>
+                </div>
+            <!-- <button value="cancel" id="close-button">Cancel</button> -->
+
+            </div>
+
+        </dialog>
+
+    </div>
+    <br>
+    <div style="text-align: center;">
+        Selected relay point is
+        <p id="selected-relay" style="font-weight:bold;">
+            none
+        </p>
+    </div>
+</body>
+
+<script src="./logic.js" defer></script>
+
+</html>

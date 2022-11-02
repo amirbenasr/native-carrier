@@ -1,0 +1,170 @@
+html,body 
+{
+    margin:0px;
+    height: 100%;
+}
+.carrier-widget {
+    /* height: 100%; */
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+.widget-button 
+{
+
+}
+
+.widget-popup {
+    /* margin: 0 auto; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+.popup-header 
+{
+    width: 100%;
+}
+.popup-content 
+{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+
+.carrier-content {
+    margin: 0 auto;
+}
+
+
+
+.relay-list {
+    /* padding: 6px; */
+    flex: 1;
+    height: 100%;
+    border: medium solid grey;
+    overflow-y: scroll; 
+    /* height:400px; */
+}
+
+#map {
+    flex: 2 2;
+    order :2;
+    height: 100%;
+    border: medium solid yellow;
+ 
+
+}
+.close
+{
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+    background-color: transparent;
+    border: 0;
+    
+}
+
+
+
+
+#dialog
+{
+    /* display: flex; */
+    display: absolute;
+    width: 800px;
+    text-align: center;
+    height: 80%;
+}
+
+
+.relay-container {
+
+    border-bottom: 0.5px solid grey;
+    padding: 8px;
+
+}
+
+.relay-container:hover {
+    background-color: aliceblue;
+}
+
+.relay-container.selected:hover {
+    color: white;
+    background-color: blue;
+}
+
+.selected {
+    color: white;
+    background-color: blue;
+}
+
+.relay-container>p {
+    margin: 0px 0px;
+    text-align: start;
+    padding: 3px;
+    overflow-wrap: break-word;
+
+
+}
+
+.leaflet-popup-content > p {
+    /* white-space: nowrap; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* max-width: 300px; */
+  }
+
+ 
+  td  {
+      font-size: 13px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+      padding: 0 0 0 0;
+      margin: 0;
+      border: 0;
+      white-space: nowrap;
+
+  }
+  table {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    /* border-collapse: collapse; */
+    border-collapse: separate; 
+    border-spacing: 0px 0px;
+    margin-top: 2px;
+  
+  }
+   th,td {
+	padding: 8px;
+  }
+
+  .leaflet-popup-content p
+  {
+      margin: 2px !important;
+  }
+
+ 
+ 
+
+  tr:nth-child(odd) {
+    background-color: #f2f2f2;
+
+  }
